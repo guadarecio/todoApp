@@ -9,7 +9,7 @@ function StackNav() {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="MyDrawer" component={MyDrawer} />
+        <Stack.Screen name="PetShop" component={MyDrawer} />
       </Stack.Navigator>
     </NavigationContainer>
   );
